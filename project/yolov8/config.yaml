@@ -1,0 +1,9 @@
+path: /home/zaleox/tarumtFYP/project/yolov8
+
+train: dataset/train/images
+val: dataset/validation/images
+
+# Classes
+names:
+    0: iphone_front
+    1: iphone_side
